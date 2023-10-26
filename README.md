@@ -1,2 +1,3 @@
 # Calender
-This will be a simple calender that you can input events into and it will keep track of them
+This is a simple calender that only has one day on it. It uses dayjs to follow the day so you can plan for upcoming events
+![Alt text](<Screenshot 2023-10-26 181749.png>)![Alt text](<Screenshot 2023-10-26 181626.png>)
